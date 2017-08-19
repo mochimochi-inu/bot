@@ -3,7 +3,9 @@ bot lesson
 
 
 // please make config.php
-<?php
+
+```
+<?php config.php
 
     // twitter Oauth settings
     require_once(__DIR__ . '/vendor/autoload.php');
@@ -14,3 +16,4 @@ bot lesson
     define('ACCESS_TOKEN_SECRET', 'your access token secret');
 
 ?>
+```
