@@ -2,10 +2,10 @@
 bot lesson
 
 
-// please make config.php
+* please make config.php
 
-```
-<?php config.php
+``` config.php
+<?php
 
     // twitter Oauth settings
     require_once(__DIR__ . '/vendor/autoload.php');
