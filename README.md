@@ -1,5 +1,5 @@
-# bot
-bot lesson
+# twitter-lesson
+twitterAPI lesson
 
 
 * please make config.php
